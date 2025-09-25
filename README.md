@@ -1,16 +1,41 @@
-# flutter_widgets
+# Flutter Widget Catalog Examples
 
-A new Flutter project.
+A simple project showcasing practical examples from the **Flutter Widget Catalog Tour** — to learn and explore the basic Flutter widgets and how they work.
 
-## Getting Started
+## 📝 Description
 
-This project is a starting point for a Flutter application.
+This repository contains ready-to-use examples of core Flutter widgets (such as `Container`, `Row`, `Column`, `ListView`, and more). The goal is to understand and experiment with the official Flutter widgets.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features / Examples
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Examples directly from the Flutter Widget Catalog
+* Simple explanations of how widgets work
+* Clean and clear code suitable for beginners
+* Easy to modify and experiment with
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💿 Installation & Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/muhammedaly29/Flutter-Widgets.git
+   cd Flutter-Widgets
+   ```
+
+2. Get dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. Run on a device or emulator:
+
+   ```bash
+   flutter run
+   ```
+
+## 🛠️ Usage
+
+* Open the files inside the `lib/` folder to review different examples.
+* Change the `home` widget in `main.dart` to test a specific widget.
+* Modify the code and see results instantly.
